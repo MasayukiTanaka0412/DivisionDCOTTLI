@@ -13,9 +13,13 @@ Held Online via zoom
 URL
   
 - Opening & English Sessions (オープニングと英語セッション)
-    - To be announced (後日連絡)
+    - [https://us02web.zoom.us/j/83331418702?pwd=VVZHM0hCLzZXVm1WVThQVzhXcjFQQT09](https://us02web.zoom.us/j/83331418702?pwd=VVZHM0hCLzZXVm1WVThQVzhXcjFQQT09)
+    - Meeting ID: 833 3141 8702
+    - Passcode: 680271
 - 日本語セッション (オープニングは英語セッションのzoomでおこないます) 
-    - To be announced (後日連絡)
+    - [https://zoom.us/j/98360050967?pwd=ZkFzZS9QeTBMb0MxMFpBcEs0M2J5Zz09](https://zoom.us/j/98360050967?pwd=ZkFzZS9QeTBMb0MxMFpBcEs0M2J5Zz09)
+    - Meeting ID: 983 6005 0967
+    - Passcode: 988892
   
 **重要**
   
