@@ -64,6 +64,18 @@ URL
   
 ## お願い Notes
   
+Session 1では、 slido[https://www.sli.do/](https://www.sli.do/) というアンケートサイトを利用します。
+  
+事前に、こちらのリンクで「Division D CLT & TLI」のページにアクセスできるか、ご確認お願いします。
+  
+[https://app.sli.do/event/nygwe2qp](https://app.sli.do/event/nygwe2qp)
+  
+During Session 1, we will use slido[https://www.sli.do/](https://www.sli.do/), which is to take a live survey.
+  
+Please click below link to check you can access to "Division D CLT & TLI" page.
+  
+[https://app.sli.do/event/nygwe2qp](https://app.sli.do/event/nygwe2qp)
+  
 Session 4 では、zoomのBreakout Roomを利用して役職ごとのディスカッションをおこないます。
   
 部屋分けをスムーズにおこなうために、zoomに表示されるお名前の変更をお願いします。
@@ -87,7 +99,7 @@ ex.) **44-President-Taro Tanaka**
 **[名前の変更方法 How to change your display name](3_COT1_DivI_HowtochangeZOOMname.pdf)**
   
 ---
-    
+  
 ## セッションの録画 Session Recording
   
 セッションは、ホストによって録画されます。
