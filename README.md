@@ -48,9 +48,9 @@ URL
     - Speech training of the ordinary people, by the ordinary people, for the ordinary people, for your everyday business"
 - Session 2
     - English: Creating Best Club Climate
-    - 日本語: (タイトル未定)
+    - 日本語: 「スピーチ、困りごとなんですか？」（新橋TMC 柴田さん）
 - Session 3
-    - English: (To be announced)
+    - English: To be an International Business Person 
     - 日本語: 感性を磨く
 - Session 4
     - English: Club Officer Breakout 
