@@ -87,15 +87,7 @@ ex.) **44-President-Taro Tanaka**
 **[名前の変更方法 How to change your display name](3_COT1_DivI_HowtochangeZOOMname.pdf)**
   
 ---
-  
-## 事前配布資料 Hand-outs
-  
-後日連絡
-
-To be announced  
-  
----
-  
+    
 ## セッションの録画 Session Recording
   
 セッションは、ホストによって録画されます。
